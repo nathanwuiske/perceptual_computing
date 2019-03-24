@@ -4,5 +4,5 @@ This program implements two different playing card recognition methods using the
 
 ## TODO
 
-* Improve card detection to support occlusion.  
-* Update the way the initial deck is stored in data structures.
+* Improve card detection to support occlusion
+* Update the way the initial deck is stored in data structure
