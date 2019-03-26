@@ -1,14 +1,9 @@
 
-# coding: utf-8
-
-# In[15]:
-
-
 import numpy as np
 import cv2
 
-test_image = 'C:/..../test_images/test7.png'
-standard_deck_image = 'C:/..../test_images/deck.jpg'
+test_image = ''
+standard_deck_image = ''
 number_of_cards = 54
 cards_to_search = 4
 
